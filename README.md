@@ -11,7 +11,7 @@ To install:
 * Restart IDE
 * Go to _Settings (Preferences) | Appearance & Behavior | Appearance_ and see the _Theme_ dropdown
 
-[Report an issue](https://github.com/OlyaB/GreyTheme/issues) |  
+[Report an issue](https://github.com/OlyaB/GreyTheme/issues)
   
 ![Theme Main Window](/screenshots/main-window.png)
 ![Theme Settings](/screenshots/settings.png)
