@@ -1,0 +1,84 @@
+<svg id="иконка" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #fefcff;
+      }
+
+      .cls-3 {
+        fill: #ffe6dd;
+      }
+
+      .cls-4 {
+        fill: #72524e;
+      }
+
+      .cls-5 {
+        fill: #eef1f5;
+      }
+
+      .cls-6 {
+        fill: #dbdfe4;
+      }
+    </style>
+    <filter id="filter" x="9" y="9" width="180" height="179" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#6876a8"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Фигура_1" data-name="Фигура 1" class="cls-1" d="M9,96C8.667,48,46,9,101,9s88,30,88,86-1,50.667-1,66-16,27-29,27H91C42.333,186,12.333,156.333,9,96Z"/>
+  <rect id="голова" class="cls-2" x="56" y="63" width="91" height="83" rx="41.5" ry="41.5"/>
+  <g id="глаза">
+    <rect id="фон" class="cls-3" x="72" y="88" width="57" height="32" rx="16" ry="16"/>
+    <rect id="левый" class="cls-4" x="83" y="95" width="11" height="18" rx="5.5" ry="5.5"/>
+    <rect id="правый" class="cls-4" x="106" y="95" width="11" height="18" rx="5.5" ry="5.5"/>
+  </g>
+  <g id="ухи">
+    <rect id="левый-2" data-name="левый" class="cls-2" x="50" y="92" width="9" height="27" rx="4.5" ry="4.5"/>
+    <rect id="правый-2" data-name="правый" class="cls-2" x="145" y="92" width="9" height="27" rx="4.5" ry="4.5"/>
+  </g>
+  <g id="джойстик">
+    <rect id="Прямоугольник_скругл._углы_1" data-name="Прямоугольник, скругл. углы 1" class="cls-5" x="88" y="60" width="28" height="10" rx="5" ry="5"/>
+    <rect id="Прямоугольник_скругл._углы_2" data-name="Прямоугольник, скругл. углы 2" class="cls-6" x="96" y="58" width="12" height="7" rx="3.5" ry="3.5"/>
+    <path id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-7" d="M100,34h4V61a2.493,2.493,0,0,1-4,0V34Z"/>
+    <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-3" cx="102" cy="35" r="5"/>
+  </g>
+</svg>
