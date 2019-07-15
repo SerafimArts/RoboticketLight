@@ -17,34 +17,40 @@
             "ContrastBorderColor": "#dfdfdf"
         },
         "SidePanel": {
-            "background": "#ebeff3"
+            "background": "#f5f6f7"
         },
         "SearchEverywhere":  {
             "Header": {
                 "background": "#ffffff"
             },
             "SearchField": {
-                "borderColor": "#cfd6e6",
-                "background": "#ffffff"
+                "borderColor": "#dcdfe3",
+                "background": "#ffffff",
+                "infoForeground": "#dcdfe3"
             },
             "Tab": {
-                "selectedBackground": "#cfd6e6",
-                "selectedForeground": "#3d3e4a"
+                "selectedBackground": "#6876a8",
+                "selectedForeground": "#ffffff"
             },
             "List": {
                 "separatorForeground": "#3d3e4a",
-                "separatorColor": "#cfd6e6"
+                "separatorColor": "#dcdfe3"
             },
             "Advertiser": {
                 "background": "#f5f6f7",
-                "foreground": "#999999"
+                "foreground": "#9999aa"
             }
         },
         "EditorTabs": {
             "borderColor": "#dcdfe3",
-            "selectedForeground": "#3d3e4a",
-            "selectedBackground": "#ffffff",
-            "inactiveMaskColor": "#f5f6f7"
+            "selectedBackground": "#ffffff"
+        },
+        "DefaultTabs": {
+            "underlineColor": "#6876a8",
+            "underlineHeight": "2",
+            "hoverBackground": "#ffffff",
+            "borderColor": "#dcdfe3",
+            "inactiveUnderlineColor": "#9ca7b8"
         },
         "Editor": {
             "background": "#fffff",
@@ -70,17 +76,18 @@
         },
         "Tree": {
             "background": "#ffffff",
-            "selectionInactiveBackground": "#e1e3ea",
+            "foreground": "#363742",
             "selectionBackground": "#e1e3ea",
-            "selectionForeground": "#292a32",
-            "modifiedItemForeground": "#c57633",
+            "selectionForeground": "#131317",
+            "selectionInactiveBackground": "#e7e9f0",
+            "modifiedItemForeground": "#6c6b97",
             "rowHeight": 28
         },
         "ComboBox": {
             "nonEditableBackground": "#ffffff",
             "background": "#ffffff",
             "ArrowButton": {
-                "iconColor": "#e1e3ea",
+                "iconColor": "#a0a3ad",
                 "disabledIconColor": "#e1e3ea",
                 "background": "#fcfdfd"
             }
@@ -105,6 +112,7 @@
             "startBorderColor": "#cfd6e6",
             "endBorderColor": "#cfd6e6",
             "focusedBorderColor": "#6876a8",
+            "arc": "4",
             "default": {
                 "foreground": "#ffffff",
                 "startBackground": "#6876a8",
@@ -112,19 +120,20 @@
                 "startBorderColor": "#6876a8",
                 "endBorderColor": "#6876a8",
                 "shadowColor": "#ffffff00",
-                "focusedBorderColor": "#3F4797"
+                "focusedBorderColor": "#3f4797"
             }
+        },
+        "Component": {
+            "borderColor": "#cfd6e6",
+            "focusedBorderColor": "#6876a8",
+            "focusColor": "#ffffff00",
+            "arc": "4"
         },
         "ProgressBar": {
             "trackColor": "#cfd6e6",
             "progressColor": "#6876a8",
             "indeterminateStartColor": "#545682",
             "indeterminateEndColor": "#6876a8"
-        },
-        "Component": {
-            "borderColor": "#cfd6e6",
-            "focusedBorderColor": "#6876a8",
-            "focusColor": "#ffffff00"
         },
         "ToolTip": {
             "background": "#ffffff"
@@ -146,18 +155,32 @@
         },
         "Plugins": {
             "background": "#ffffff",
-            "SearchField.background": "#ffffff",
-            "SectionHeader.foreground": "#6876a8",
+            "tagBackground": "#f5f1e7",
+            "tagForeground": "#4c443d",
             "lightSelectionBackground": "#f9f9f9",
+            "SearchField": {
+                "background": "#ffffff",
+                "borderColor": "#dcdfe3"
+            },
+            "SectionHeader": {
+                "foreground": "#6876a8"
+            },
             "Button": {
                 "installBackground": "#55AA55",
-                "installForeground": "#232b20",
-                "installBorderColor": "#2c931f"
+                "installForeground": "#ffffff",
+                "installBorderColor": "#2c8020"
             },
             "Tab": {
                 "selectedBackground": "#ffffff",
                 "hoverBackground": "#cfd6e6"
             }
+        },
+        "CompletionPopup": {
+            "selectionBackground": "#cfd6e6",
+            "selectionInactiveBackground": "#8e9eb",
+            "foreground": "#292a32",
+            "matchForeground": "#3f4797",
+            "nonFocusedMask": "#E8E9EB33"
         },
         "Notification": {
             "background": "#f7f8fa",
