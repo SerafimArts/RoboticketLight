@@ -14,4 +14,5 @@ To install:
 [Report an issue](https://github.com/OlyaB/GreyTheme/issues)
   
 ![Theme Main Window](/screenshots/main-window.png)
+![Search Window](/screenshots/search.png)
 ![Theme Settings](/screenshots/settings.png)
