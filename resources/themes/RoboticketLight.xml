@@ -1,11 +1,19 @@
 <scheme name="Roboticket Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-30T15:33:40</property>
+    <property name="created">2019-12-03T00:06:27</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-30T15:33:47</property>
-    <property name="originalScheme">Roboticket Light 3</property>
+    <property name="ideVersion">2019.3.0.0</property>
+    <property name="modified">2019-12-03T00:06:30</property>
+    <property name="originalScheme">Roboticket Light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="4e4d4b" />
     <option name="CARET_ROW_COLOR" value="e4e5ea" />
@@ -18,7 +26,7 @@
     <option name="READONLY_FRAGMENT_BACKGROUND" value="ddd8e6" />
     <option name="RIGHT_MARGIN_COLOR" value="d0d0d0" />
     <option name="SELECTED_INDENT_GUIDE" value="e4e5ea" />
-    <option name="SELECTED_TEARLINE_COLOR" value="9999aa" />
+    <option name="SELECTED_TEARLINE_COLOR" value="6876a8" />
     <option name="SELECTION_BACKGROUND" value="f0dcce" />
     <option name="SELECTION_FOREGROUND" value="373532" />
     <option name="TEARLINE_COLOR" value="d1d2d7" />
@@ -428,6 +436,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="cf2200" />
+        <option name="BACKGROUND" value="ffe5df" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="cf2200" />
         <option name="EFFECT_TYPE" value="2" />
@@ -469,7 +480,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b8544f" />
+        <option name="EFFECT_COLOR" value="c6ac3f" />
         <option name="ERROR_STRIPE_COLOR" value="ede0c6" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -481,14 +492,14 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="a6a19c" />
-        <option name="BACKGROUND" value="dedcd7" />
+        <option name="FOREGROUND" value="c3beb7" />
+        <option name="BACKGROUND" value="eeece7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="545454" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="91a1a8" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -12884,7 +12895,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="58585f" />
+        <option name="FOREGROUND" value="585858" />
         <option name="BACKGROUND" value="f6f5f5" />
       </value>
     </option>
@@ -12908,9 +12919,10 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6ebbc" />
+        <option name="BACKGROUND" value="f6f0cb" />
+        <option name="EFFECT_COLOR" value="b40800" />
         <option name="ERROR_STRIPE_COLOR" value="e0c11d" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -12925,19 +12937,5 @@
         <option name="ERROR_STRIPE_COLOR" value="ffcfbb" />
       </value>
     </option>
-    <option name="INLINE_PARAMETER_HINT_CURRENT">
-      <value>
-        <option name="FOREGROUND" value="4f515b" />
-        <option name="BACKGROUND" value="c0c5e2" />
-      </value>
-    </option>
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>

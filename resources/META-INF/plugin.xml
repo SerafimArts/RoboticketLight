@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>ru.serafimarts.roboticket</id>
     <name>Roboticket Light Theme</name>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
     <vendor email="nesk@xakep.ru" url="https://github.com/SerafimArts">Kirill Nesmeyanov</vendor>
     <description><![CDATA[
         A low-contrast light theme.
@@ -32,6 +32,13 @@
         <img src="https://raw.githubusercontent.com/SerafimArts/RoboticketLight/master/screenshots/settings.png" border="0" width="700" alt="Settings screenshot">
     ]]></description>
     <change-notes><![CDATA[
+        <b>1.1.2</b>
+        <ul>
+            <li>"Warning" style improvements</li>
+            <li>"Tear line" style improvements</li>
+            <li>CLI output improvements (font and ligatures)</li>
+        </ul>
+        <br /><br />
         <b>1.1.1</b>
         <ul>
             <li>Release notes visual fixes</li>
@@ -52,11 +59,19 @@
         </ul>
       ]]>
     </change-notes>
-    <idea-version since-build="191.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="193.0"/>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+
     <depends>com.intellij.modules.lang</depends>
+
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="4d54695c-dd24-4a17-8364-47ce9352d189" path="/RoboticketLight.theme.json"/>
     </extensions>
+
     <actions>
         <!-- Add your actions here -->
     </actions>

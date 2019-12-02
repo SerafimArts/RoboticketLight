@@ -42,8 +42,7 @@
             }
         },
         "EditorTabs": {
-            "borderColor": "#dcdfe3",
-            "selectedBackground": "#ffffff"
+            "borderColor": "#dcdfe3"
         },
         "DefaultTabs": {
             "underlineColor": "#6876a8",
@@ -64,7 +63,6 @@
                 "inactiveBackground": "#f5f6f7"
             },
             "HeaderTab": {
-                "selectedBackground": "#e1e3ea",
                 "selectedInactiveBackground": "#e1e3ea",
                 "hoverBackground": "#e1e3ea",
                 "hoverInactiveBackground": "#e1e3ea"
