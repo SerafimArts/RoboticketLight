@@ -78,7 +78,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="4d54695c-dd24-4a17-8364-47ce9352d189" path="/RoboticketLight.theme.json"/>
-        <themeProvider id="4e615a8a-c7fc-4e2a-9c06-79b718d75e97" path="/asd.theme.json"/>
     </extensions>
 
     <actions>
