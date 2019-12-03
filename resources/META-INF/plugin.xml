@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>ru.serafimarts.roboticket</id>
     <name>Roboticket Light Theme</name>
-    <version>1.1.2</version>
+    <version>1.1.3</version>
     <vendor email="nesk@xakep.ru" url="https://github.com/SerafimArts">Kirill Nesmeyanov</vendor>
     <description><![CDATA[
         A low-contrast light theme.
@@ -32,6 +32,14 @@
         <img src="https://raw.githubusercontent.com/SerafimArts/RoboticketLight/master/screenshots/settings.png" border="0" width="700" alt="Settings screenshot">
     ]]></description>
     <change-notes><![CDATA[
+        <b>1.1.3</b>
+        <ul>
+            <li>Improve "Warning" underwave style color</li>
+            <li>Improve "Error" underwave and font colors</li>
+            <li>Improve selected brackets and braces highlighting</li>
+            <li>Change console font to JetBrains Mono</li>
+        </ul>
+        <br /><br />
         <b>1.1.2</b>
         <ul>
             <li>"Warning" style improvements</li>
@@ -70,6 +78,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="4d54695c-dd24-4a17-8364-47ce9352d189" path="/RoboticketLight.theme.json"/>
+        <themeProvider id="4e615a8a-c7fc-4e2a-9c06-79b718d75e97" path="/asd.theme.json"/>
     </extensions>
 
     <actions>
