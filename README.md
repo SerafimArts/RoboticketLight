@@ -1,3 +1,5 @@
+> In 2024, JetBrains deisabled plugin compilation and the use of its tools on more than 1/8 of the Earth, taking away (stealing) purchased licenses from developers. Due to this, this package is no longer supported and cannot be compiled.
+
 # Roboticket Light
 
 A low-contrast light theme.
